@@ -9,7 +9,3 @@ print(40==50)
 print(50>40)
 print(155<170)
 
-pushups = 100
-print(pushups)
-pushups =input("enter how many push ups you did:")
-print(100==70)
